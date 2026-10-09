@@ -43,13 +43,6 @@ Los canales se agrupan en tres tipos:
 * **Directo web:** web propia y app propia.
 * **Marketplace:** Glovo y Uber Eats.
 
-| Tipo de canal | Facturación | % facturación | Costes | % costes | Comisión | % comisión | Margen bruto | Margen % |
-|---|---|---|---|---|---|---|---|---|
-| Directo local | 16.076,80 € | 20,1 % | 7.783,60 € | 20,3 % | 0,00 € | 0,0 % | 8.293,20 € | 51,6 % |
-| Directo web | 19.597,60 € | 24,5 % | 9.376,10 € | 24,4 % | 1.175,86 € | 8,4 % | 9.045,64 € | 46,2 % |
-| Marketplace | 44.215,30 € | 55,3 % | 21.192,60 € | 55,3 % | 12.865,17 € | 91,6 % | 10.157,53 € | 23,0 % |
-| **Total** | **79.889,70 €** | **100 %** | **38.352,30 €** | **100 %** | **14.041,03 €** | **100 %** | **27.496,37 €** | **34,4 %** |
-
 Más de la mitad de la venta depende de plataformas externas.
 
 ---
